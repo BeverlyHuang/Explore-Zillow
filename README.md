@@ -1,5 +1,6 @@
 # Housing Price Prediction: Time Series vs Machine Learning
 
+By Beverly Huang
 
 ### Goal
 Real estate prices are always changing. Many models have been created to predict housing prices. This project will use Zillow dataset as an example to explore the performance of time series model and machine learning model on real estate price prediction.
